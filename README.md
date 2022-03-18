@@ -5,3 +5,10 @@ One Fitness is a fitness training business, which provides training sessions for
 Storing the business information as a database increases business information management, especially for the kind of business involving multiple lists of large information, such as trainers, members, sessions and payments.
 
 The proposal of database solution is developed for One Fitness to help the business manage and have a clear overview of the business’s services and operation. Furthermore, an appropriate database enhances data integrity; therefore, the company can avoid mistakes. Moreover, specific data can be retrieved for helpful insights, significantly contributing to problem solving and improvements for the business.
+
+The proposal contents:
+- Business Narrative
+- (Entity Relationship Diagrams) ERDs and Relational Schema
+- Database Solution with Access file
+- Data testing
+- Sample analysis using queries and visualisations
