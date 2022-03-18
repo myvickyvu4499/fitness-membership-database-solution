@@ -8,7 +8,7 @@ The proposal of database solution is developed for One Fitness to help the busin
 
 The proposal contents:
 - Business Narrative
-- (Entity Relationship Diagrams) ERDs and Relational Schema
+- Entity Relationship Diagrams (ERDs) and Relational Schema
 - Database Solution with Access file
 - Data testing
 - Sample analysis using queries and visualisations
